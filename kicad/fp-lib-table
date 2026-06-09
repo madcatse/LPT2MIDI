@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "lpt2midi") (type "KiCad") (uri "${KIPRJMOD}/libs/lpt2midi.pretty") (options "") (descr ""))
+)

@@ -1,1 +1,0 @@
-lh softmpu /MPU:330 /OUTPUT:COM1 /DELAYSYSEX
